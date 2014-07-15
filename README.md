@@ -15,7 +15,7 @@ If you are using this dataset please cite as:
 {dbpedia-OutlinkCount,
   Author = {Dinesh Reddy},
   Title = {DBpedia OutlinkCount data set},
-  Location = {https://github.com/dineshreddykdp/DBpedia_PageinLinkCounts_Cleaned},
+  Location = {https://github.com/dineshreddykdp/DBpedia_PageoutLinkCounts_Cleaned},
   Resource type = {dataset},
   Publisher = {Hasso Plattner Institute},
   Publication date = {July 2014},

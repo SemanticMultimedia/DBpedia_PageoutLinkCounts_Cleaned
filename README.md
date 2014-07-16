@@ -12,10 +12,10 @@ DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageOutlink count. Mo
 If you are using this dataset please cite as:
 
 ```
-{dbpedia-OutlinkCount,
+{dbpedia-graphmeasures,
   Author = {Dinesh Reddy},
-  Title = {DBpedia OutlinkCount data set},
-  Location = {https://github.com/dineshreddykdp/DBpedia_PageoutLinkCounts_Cleaned},
+  Title = {DBpedia GraphMeasures},
+  Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
   Publisher = {Hasso Plattner Institute},
   Publication date = {July 2014},

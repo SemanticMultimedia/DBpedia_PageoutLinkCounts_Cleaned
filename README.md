@@ -5,7 +5,7 @@ DBpedia_PageoutLinkCounts_Cleaned
 ##Source Dataset
 
 
-DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageOutlink count. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found here.
+DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute PageOutlink count. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found [here](http://semanticmultimedia.org/node/6).
 
 ##Citation
 
